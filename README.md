@@ -8,6 +8,7 @@
 
 - [Tools](#tools)
 - [LaTeX](#latex)
+- [JavaScript](#javascript)
 - [TypeScript](#typescript)
 - [Examples](#examples)
 
@@ -23,6 +24,15 @@ Create and share beautiful images of your source code.
 
 - [acteru/ipa-latex-template](https://github.com/acteru/ipa-latex-template): LaTeX Template
 - [Roche/ipa-template](https://github.com/Roche/ipa-template): LaTeX Template
+- [ombre8/ipa](https://github.com/ombre8/ipa): LaTeX Template
+
+## JavaScript
+
+- [madge](https://github.com/pahen/madge): Visual graph of your module dependencies
+
+## TypeScript
+
+- [tsviz](https://github.com/joaompneves/tsviz): Automatic TypeScript UML visualizer
 
 ## Examples
 
