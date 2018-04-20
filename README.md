@@ -4,7 +4,7 @@
 
  A curated list of awesome tools and scripts for your IPA (Induviduelle Praktische Arbeit)
 
-### Contents
+## Contents
 
 - [Tools](#tools)
 - [LaTeX](#latex)
