@@ -19,6 +19,7 @@ Create and share beautiful images of your source code.
 - [Online Sequence Diagram Generator](https://sequencediagram.org/): Define simple sequence diagrams
 - [package-json-to-template](https://github.com/BrunnerLivio/package-json-to-template): Convert package.json data (NodeJS) into a custom Jinja template (for e.g. LateX or HTML)
 - [trello-scrum-to-template](https://github.com/BrunnerLivio/trello-scrum-to-template): Convert Trello-Board data into a custom Jinja template (for e.g. LaTeX or HTML)
+- [whatsnew](https://github.com/randombenj/whatsnew): Generate simple changelog news from you git history
 
 ## LaTeX
 
