@@ -1,3 +1,3 @@
 # Contributors
 
-- Livio Brunner (livio.brunner.lb1@gmail.com): Apprentice @ Roche Diagnostics International AG
+- Livio Brunner (livio.brunner.lb1@gmail.com): Former Apprentice @ Roche Diagnostics International AG
