@@ -35,6 +35,7 @@ Create and share beautiful images of your source code.
 
 - [madge](https://github.com/pahen/madge): Visual graph of your module dependencies
 - [Semantic Release](https://github.com/semantic-release/semantic-release): Fully automated version management and package publishing + Generate auomatic CHANGELOG.md 
+- [Compodoc](https://github.com/compodoc/compodoc): Generate Angular HTML documentation
 
 ## TypeScript
 
