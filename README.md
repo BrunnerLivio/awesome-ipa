@@ -3,6 +3,10 @@
  [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
  A curated list of awesome tools and scripts for your IPA (Induviduelle Praktische Arbeit)
+ 
+ > Lets make the IPA experience less shitty, by reducing the manual part of the documentation
+ > and increase the automated part. 
+ > Lets focus on the important part; the code.
 
 ## Contents
 
@@ -30,6 +34,7 @@ Create and share beautiful images of your source code.
 ## JavaScript
 
 - [madge](https://github.com/pahen/madge): Visual graph of your module dependencies
+- [Semantic Release](https://github.com/semantic-release/semantic-release): Fully automated version management and package publishing + Generate auomatic CHANGELOG.md 
 
 ## TypeScript
 
