@@ -4,9 +4,9 @@
 
  A curated list of awesome tools and scripts for your IPA (Induviduelle Praktische Arbeit)
  
- > Lets make the IPA experience less shitty, by reducing the manual part of the documentation
+ > Lets make the IPA experience less shitty by reducing the manual part of the documentation
  > and increase the automated part. 
- > Lets focus on the important part; the code.
+ > We should focus on the important part; the code.
 
 ## Contents
 
