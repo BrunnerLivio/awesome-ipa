@@ -30,6 +30,7 @@ Create and share beautiful images of your source code.
 - [acteru/ipa-latex-template](https://github.com/acteru/ipa-latex-template): LaTeX Template
 - [Roche/ipa-template](https://github.com/Roche/ipa-template): LaTeX Template
 - [ombre8/ipa](https://github.com/ombre8/ipa): LaTeX Template
+- [ictorg/ipa-template](https://github.com/ictorg/ipa-template): LaTeX Template for Kanton Zürich
 
 ## JavaScript
 
